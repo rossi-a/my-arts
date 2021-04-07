@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "插图绘本"
-image: assets/images/moondogmom.jpg
+image: assets/images/moondogcover.jpg
 ---
 
 ### 月犬
