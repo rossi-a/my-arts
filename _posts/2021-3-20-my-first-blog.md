@@ -2,7 +2,6 @@
 layout: post
 title:  "科技遇见她"
 image: assets/images/bear5.jpg
-featured: true
 ---
 
 
